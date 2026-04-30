@@ -6,6 +6,12 @@
             fetch="https://github.com/VoltageOS"
             sync-c="true"
             sync-j="4" />
+    
+   <remote  name="voss"
+            revision="refs/heads/16.2"
+            fetch="https://github.com/Jammy555"
+            sync-c="true"
+            sync-j="4" />
 
    <remote  name="gitlab"
             revision="refs/heads/16.2"
