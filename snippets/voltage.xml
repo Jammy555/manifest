@@ -56,7 +56,7 @@
 
   <!-- Framework -->
   <project path="frameworks/av" name="frameworks_av" remote="vos" revision="16.2" />
-  <project path="frameworks/base" name="frameworks_base_new" remote="voss" revision="16.2" />
+  <project path="frameworks/base" name="frameworks_base_new" remote="vos" revision="16.2" />
   <project path="frameworks/libs/systemui" name="frameworks_libs_systemui" remote="vos" revision="16.2" />
   <project path="frameworks/native" name="frameworks_native" remote="vos" revision="16.2" />
   <project path="frameworks/opt/net/wifi" name="frameworks_opt_net_wifi" remote="vos" revision="16.2" />
